@@ -1,7 +1,7 @@
 hello = "Hello World"
 
 seznam = []
-
+cisla = [0,2,32,2,3,1,31,5]
 for i in hello:
     seznam.append(i)
 
