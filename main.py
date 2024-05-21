@@ -6,7 +6,7 @@ for i in hello:
     seznam.append(i)
 
 cisla_sum = sum(cisla)/len(cisla)
-
+print(cisla_sum)
 print(seznam)
 helloworld = hello.split(" ")
 hello,world = helloworld[0],helloworld[1]
