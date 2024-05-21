@@ -1,2 +1,6 @@
 hello = "Hello World"
-print(hello)
+
+if len(hello) < 10:
+    print("true")
+else:
+    print("false)
