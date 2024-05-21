@@ -6,4 +6,5 @@ world = "Universe"
 print(np.random.randint(0,10)*np.random.randint(10,20))
 
 plt.plot([int(x**2) for x in range(-20,20)])
+plt.plot([int((x**2)*-1) for x in range(-20,20)])
 plt.show()
