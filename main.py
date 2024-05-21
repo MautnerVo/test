@@ -1,6 +1,6 @@
 hello = "Hello World"
 
 if len(hello) < 10:
-    print("true")
+    print("True")
 else:
-    print("false)
+    print("False")
